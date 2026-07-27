@@ -4,6 +4,11 @@ Prepared for the West Central Tech Conference.
 
 Grant Nelson | Doosan Digital Innovation
 
+## Speaker
+
+- Speaker: Grant Nelson
+- LinkedIn: https://www.linkedin.com/in/grantsnelson/
+
 ## Contents
 
 This repository includes the conference handout package for a third-party risk management session:
@@ -32,3 +37,7 @@ This repository includes the conference handout package for a third-party risk m
 ## Public Use Notice
 
 All scenarios and guidance are generalized for public conference use. This package contains no company-specific vendor names, products, architectures, incidents, credentials, IP addresses, internal documents, or unreleased role information.
+
+## License
+
+This material is licensed under the Creative Commons Attribution 4.0 International license. See the LICENSE file for details.
